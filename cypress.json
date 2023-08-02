@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://automationintesting.online",
+  "useRelativeSnapshots": true,
+  "ignoreTestFiles": ["*snapshots.js", "*mock.js"],
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false,
+  "viewportWidth": 1280,
+  "viewportHeight": 720
+}
+
+
+
+
